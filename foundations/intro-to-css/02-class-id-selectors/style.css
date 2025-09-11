@@ -1,13 +1,16 @@
 /* Add CSS Styling */
 p{
     background-color:lightpink;
-    font-family: Verdana, sans-serif;
-    font-size: 24px;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #one{
     color: blue;
     font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
 }
 
 #four{
